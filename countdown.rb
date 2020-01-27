@@ -30,5 +30,4 @@ countdown_with_sleep(number)
     return "HAPPY NEW YEAR!"
   end
 end
-end
   
