@@ -1,7 +1,7 @@
 #write your code here
 
-def countdown
-  midnight = 10 
+def countdown(10)
+  
 	
 	while midnight > 0
 	
