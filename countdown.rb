@@ -24,6 +24,8 @@ countdown_with_sleep(number)
   
   number -= 1 
   
+  sleep.1
+  
   if number == 0 
     return "HAPPY NEW YEAR!"
   
