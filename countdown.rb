@@ -1,13 +1,13 @@
 #write your code here
 
-def countdown(10)
+def countdown(number)
   
 	
-	while midnight > 0
+	while number > 0
 	
-	puts "#{midnight} SECOND(S)!"
+	puts "#{nuumber} SECOND(S)!"
 	
-  midnight -= 1
+  number -= 1
   
   end
 end
